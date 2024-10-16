@@ -1,0 +1,12 @@
+﻿@MicroElements.Swashbuckle.FluentValidation.Api_HostAddress = http://localhost:5048
+
+
+###
+
+POST http://localhost:5048/address
+Content-Type: application/json
+
+{
+  "StreetName": ""
+}
+###

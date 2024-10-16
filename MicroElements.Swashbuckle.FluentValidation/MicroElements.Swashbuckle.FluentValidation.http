@@ -1,0 +1,6 @@
+@MicroElements.Swashbuckle.FluentValidation_HostAddress = http://localhost:5048
+
+GET {{MicroElements.Swashbuckle.FluentValidation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
